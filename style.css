@@ -72,7 +72,9 @@ header {
     flex-wrap: wrap;
     overflow: hidden;
 }
-
+.menu_side, .song_side, .master_play{
+    border-radius: 20px;
+}
 header .menu_side,
 .song_side {
     width: 25%;
